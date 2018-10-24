@@ -1,2 +1,2 @@
-# PurSal
+# SalesInvoice
 Sales Transaction - Book Keeping
